@@ -1,7 +1,5 @@
 let a = 'vvaaa111';
-let b = 2;
+let b = 222;
 
-function bbb () {
-  
-function aaa() {
+function ddd () {
 }
