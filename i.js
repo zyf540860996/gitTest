@@ -1,4 +1,4 @@
-let a = 11111;
+let a = 'aaa';
 let b = 2;
 let d = 'ds'
 let hh = 1111
