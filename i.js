@@ -3,4 +3,5 @@ let b = 2;
 
 function bbb () {
   
+function aaa() {
 }
