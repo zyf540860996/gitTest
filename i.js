@@ -1,8 +1,9 @@
 let a = 'vvaaa111';
 let b = 222;
-function aadd() {
-  
+function a1() {
+
 }
-function ccc() {
-  alert('ds')
+
+function a2() {
+  
 }
