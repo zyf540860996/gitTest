@@ -2,4 +2,4 @@ let a = 1;
 let b = 2;
 [a, b] = [b, a]
 console.log(a, b)
-let x = 88111
+let x = 112223
